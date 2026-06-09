@@ -2,6 +2,7 @@
 This project focuses on analyzing milk and egg prices over time to identify trends and potential influencing factors, such as inflation and market fluctuations. Both of the datasets for the egg and milk prices are sourced from the Federal Reserve Economic Data (FRED).
 
 • I used the CSV format for the egg price data from: https://fred.stlouisfed.org/series/APU0000708111
+
 • I retrieved the milk price data set from API, from: https://fred.stlouisfed.org/series/APU0000709112
 
 1. Download the two csv datasets: Milkdata.csv and Egg.csv;
